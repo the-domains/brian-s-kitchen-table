@@ -1,0 +1,14 @@
+name: Brian's Kitchen & Table
+layout_spectrum: 0.6242258356140393
+typography_spectrum: 0.46112218757722834
+color:
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  brandStrength: 0.543010045784294
+  lightness: 0.8447089050301764
+  saturation: 0.29849128200888575
+  rhythmicContrast: 0.41797548425584896
