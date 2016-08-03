@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Brian's Kitchen & Table]]></title>
         <description><![CDATA[Brian's Kitchen & Table]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brian-s-kitchen-table/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:22:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 13:23:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brian-s-kitchen-table/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abb32a5c-5cc1-4842-aecc-092818d1608d.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/abb32a5c-5cc1-4842-aecc-092818d1608d.jpg</link>
+            <guid isPermaLink="false">d930da91-86ec-42b3-9f06-076b3f88bbd1</guid>
+            <pubDate>Wed, 03 Aug 2016 13:22:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52334e60-2f83-4eb8-8f72-4fe9169fb80d.jpg">]]></description>
